@@ -1,0 +1,2 @@
+# housing-regression-analysis
+This project analyzes housing price dynamics across 10 European countries over the 2005–2024 period using linear regression and trajectory visualization. It explores patterns of cumulative growth, convergence behavior, and cross-national disparities through statistical modeling and visual storytelling. The notebook and presentation highlight both slope-based insights and temporal market rhythms.
