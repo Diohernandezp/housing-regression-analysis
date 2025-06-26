@@ -1,4 +1,4 @@
-# Housing-regression-analysis Price Index Trends in Europe (2005–2024)
+# housing-regression-analysis Price Index Trends in Europe (2005–2024)
 
 ## 📌 Project Overview
 This project analyzes housing price trends across 10 European countries between 2005 and 2024 using linear regression and trajectory visualization. It explores growth disparities, convergence effects, and the role of starting conditions in long-term market behavior.
