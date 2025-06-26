@@ -32,5 +32,5 @@ This project analyzes housing price trends across 10 European countries between 
 
 - ## 🙌 Author & Contact
 
-**Author**: Ing Dionner J. Hernandez P.  
+**Author**: Ing. Dionner J Hernandez P  
 **Email**: diohernandezp@gmail.com  
