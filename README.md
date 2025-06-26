@@ -29,3 +29,8 @@ This project analyzes housing price trends across 10 European countries between 
 - Regression models are powerful tools for summarizing trends but must be supported by visual storytelling for deeper insight.
 - Differences in national growth reflect not only economic strength but also institutional resilience and social policies.
 - Policymakers can use these insights to anticipate overheating risks, underinvestment signals, or convergence trends.
+
+- ## 🙌 Author & Contact
+
+**Author**: Dionner Hernandez  
+**Email**: diohernandez@gmail.com  
